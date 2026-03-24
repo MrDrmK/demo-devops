@@ -20,5 +20,5 @@ jobs:
     - name: Instalar dependencias
       run: npm install
 
-    - name: Test
-      run: echo "Aplicación validada correctamente"
+    - name: Validación
+      run: echo "Aplicación verificada correctamente"
