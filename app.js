@@ -45,7 +45,7 @@ const html = `
         <div class="status-badge"><div class="pulse"></div> EN LINEA</div>
     </header>
     <main>
-        <h1>Ingeniería de Software II</h1>
+        <h1>daniel manco</h1>
         <p>Desarrollo y Operaciones (DevOps) - Local Environment</p>
         <div class="card">
             <h3>Estado del Servidor</h3>

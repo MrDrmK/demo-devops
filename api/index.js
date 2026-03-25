@@ -254,7 +254,7 @@ export default function handler(req, res) {
 
         <main>
             <section class="hero">
-                <h1>Ingeniería de Software II</h1>
+                <h1>daniel manco</h1>
                 <p>Pipeline de Despliegue Continuo (CI/CD) para la Unidad II. Desarrollado como ejemplo para control de versiones y automatización.</p>
                 <div class="cta-section">
                     <a href="#" class="btn btn-primary">Ver Documentación</a>
