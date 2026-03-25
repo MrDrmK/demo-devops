@@ -1,3 +1,3 @@
 export default function handler(req, res) {
-    res.status(200).send("Ejemplo cambio 1.2");
+    res.status(200).send("Ejemplo cambio 1.3");
 }
